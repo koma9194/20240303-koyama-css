@@ -1,3 +1,7 @@
+header {
+    color: #0f1780;
+}
+
 h1 {
     color: #121a8d;
     margin-left: 20px;
@@ -17,7 +21,7 @@ a {
 .nav {
     display: flex;
     flex-direction: row-reverse;
-    
+
 }
 
 li {
@@ -50,7 +54,7 @@ li {
 }
 
 img {
-    height:30vw;
+    height: 30vw;
     width: 45vw;
 }
 
